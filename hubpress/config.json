@@ -10,6 +10,8 @@
     "postsPerPage": "10"
   },
   "socialnetwork": {
+    "email": "sysop@devarea.org",
+    "twitter": "sanctumware",
     "github": "sanctumware"
   },
   "theme": {
