@@ -5,7 +5,9 @@
     "branch": "gh-pages"
   },
   "site": {
-    "title": "Blog"
+    "title": "Blog",
+    "description": "The mind, body and soul",
+    "postsPerPage": "10"
   },
   "socialnetwork": {
     "github": "sanctumware"
