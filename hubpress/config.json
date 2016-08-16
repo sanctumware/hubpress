@@ -4,7 +4,13 @@
     "repositoryName": "hubpress",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "Blog"
+  },
+  "socialnetwork": {
+    "github": "sanctumware"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
